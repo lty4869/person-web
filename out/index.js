@@ -590,7 +590,8 @@
 	        opacity: 0
 	    }
 	}).addSlide({
-	    type: 'base',
+	    type: 'href',
+	    href: 'http://weibo.com/wuyanzu?c=spr_qdhz_bd_baidusmt_weibo_s&nick=%E5%90%B3%E5%BD%A5%E7%A5%96&is_hot=1',
 	    width: 180,
 	    height: 180,
 	    text: '',
